@@ -1,0 +1,2 @@
+This is one of the projects on TOP that asks to make a rock paper scissors simple game.
+The game I made doesn't contain HTML or CSS yet it's plain JavaScript so it only runs in developer tools but I will add HTML ,CSS and some back end later to make it function the way it's supposed to do.
